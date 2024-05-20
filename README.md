@@ -8,10 +8,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-light.svg" />
-</picture>
+![Light Theme Snake Animation](https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-light.svg)
+![Dark Theme Snake Animation](https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-dark.svg)
 
 ###
 
