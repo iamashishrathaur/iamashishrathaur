@@ -6,10 +6,14 @@
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-###
 
 <img src="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/iamashishrathaur/count.svg?"  />
+</div>
 
 ###
 
