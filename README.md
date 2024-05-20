@@ -8,8 +8,12 @@
 
 ###
 
-![Light Theme Snake Animation](https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-light.svg)
-![Dark Theme Snake Animation](https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake-github-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake-github-light.svg" />
+  <img alt="snake" src="snake-github.svg" />
+</picture>
 
 ###
 
