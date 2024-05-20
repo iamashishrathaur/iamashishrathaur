@@ -1,6 +1,5 @@
 
 <p align="center"><h>🅰🆂🅷🅸🆂🅷 🆁🅰🆃🅷🅰🆄🆁</h></p>
-<br />
 
 ## About me
 
