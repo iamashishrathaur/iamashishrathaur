@@ -8,15 +8,6 @@
 
 ###
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-light.svg" />
-  <img src="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-light.svg" alt="Snake animation" />
-</picture>
-
-###
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iamashishrathaur/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/questions/60467637/chat-android-firebase-synchronization-delay-problems) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://stackoverflow.com/questions/60467637/chat-android-firebase-synchronization-delay-problems) 
 
@@ -44,6 +35,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=iamashishrathaur&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
+## Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-light.svg" />
+  <img src="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-light.svg" alt="Snake animation" />
+</picture>
+
 ###
 
 ## 😂 Random Dev Meme
@@ -53,3 +52,4 @@
 [![](https://visitcount.itsvg.in/api?id=iamashishrathaur&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
