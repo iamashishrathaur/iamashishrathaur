@@ -8,6 +8,11 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake.svg" alt="Snake animation" />
+
+
+###
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iamashishrathaur/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/questions/60467637/chat-android-firebase-synchronization-delay-problems) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://stackoverflow.com/questions/60467637/chat-android-firebase-synchronization-delay-problems) 
 
@@ -33,11 +38,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iamashishrathaur&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-###
-
-<img src="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake.svg" alt="Snake animation" />
 
 
 ###
