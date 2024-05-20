@@ -35,7 +35,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=iamashishrathaur&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-## Snake Animation
+## 🐍 Snake Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamashishrathaur/iamashishrathaur/output/snake-github-dark.svg" />
